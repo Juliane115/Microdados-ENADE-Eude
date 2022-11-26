@@ -1,0 +1,28 @@
+QUESTION_ID,FIRST_SUBJECT,SECOND_SUBJECT,VALIDITY
+9,Engenharia de Software,,False
+10,Gerência de Projetos,,False
+11,Banco de Dados,,True
+12,Informática e Sociedade,,True
+13,Arquitetura empresarial e da tecnologia da informação,,True
+14,Fundamentos de Sistemas de Informação e Teoria Geral de Sistemas,,False
+15,Arquitetura da Informação,,True
+16,Interação Humano-Computador,,True
+17,Qualidade de Processo e Produto,,True
+18,Arquitetura empresarial e da tecnologia da informação,,True
+19,Pesquisa Operacional,,True
+20,Lógica Matemática e Matemática Discreta,,True
+21,Modelagem de Sistemas de Informação,,True
+22,Sistemas Operacionais,Redes de Computadores e Sistemas Distribuídos,True
+23,Banco de Dados,,True
+24,Probabilidade e Estatística,,True
+25,Gestão de Processos de Negócio,,False
+26,"Fundamentos, Paradigmas e Linguagens de Programação",,True
+27,Gestão do Conhecimento,,True
+28,Gerência de Projetos,,True
+29,Gestão de Processos de Negócio,,False
+30,Engenharia de Software,Qualidade de Processo e Produto,True
+31,Redes de Computadores e Sistemas Distribuídos,,True
+32,Governança de Tecnologia da Informação e Comunicação,,True
+33,Segurança e Auditoria de Sistemas,,True
+34,Arquitetura e Organização de Computadores,,True
+35,Algoritmos e Estruturas de Dados,,True
