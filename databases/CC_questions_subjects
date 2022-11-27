@@ -1,0 +1,28 @@
+QUESTION_ID,FIRST_SUBJECT,SECOND_SUBJECT,VALIDITY
+9,Algoritmos e Estruturas de Dados,,True
+10,Engenharia de Software e Interação Homem-Computador,,True
+11,Paradigmas de Linguagens de Programação,,True
+12,Arquitetura de Computadores e Sistemas Operacionais,,True
+13,Sistemas Digitais,,True
+14,Lógica e Matemática Discreta,,True
+15,Redes de computadores,,True
+16,"Ética, Computador e Sociedade",,True
+17,Inteligência Artificial e Computacional,,True
+18,Algoritmos e Estruturas de Dados,,True
+19,Banco de Dados,,True
+20,Redes de Computadores,,True
+21,Lógica e Matemática Discreta,,False
+22,Fundamentos e Técnicas de Programação,,True
+23,Teoria da Computação,,True
+24,Teoria dos Grafos,Algoritmos e Estruturas de Dados,True
+25,Teoria da Computação,Algoritmos e Estruturas de Dados,False
+26,Computação Gráfica e Processamento de Imagem,,False
+27,Computação Gráfica e Processamento de Imagem,,True
+28,Engenharia de Software e Interação Homem-Computador,,True
+29,Arquitetura de Computadores e Sistemas Operacionais,,True
+30,Compiladores,,True
+31,Sistemas Distribuídos,,True
+32,Inteligência Artificial e Computacional,,True
+33,Teoria da Computação,Algoritmos e Estruturas de Dados,True
+34,Banco de Dados,,True
+35,Arquitetura de Computadores e Sistemas Operacionais,Sistemas Distribuídos,True
