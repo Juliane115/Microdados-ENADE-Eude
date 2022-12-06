@@ -1,0 +1,28 @@
+QUESTION_ID,FIRST_SUBJECT,SECOND_SUBJECT,THIRD_SUBJECT,VALIDITY
+9,Cálculo Diferencial e Integral,,,True
+10,Conteúdos Matemáticos da Educação Básica,,,True
+11,Geometria Analítica,,,True
+12,Cálculo Diferencial e Integral,,,True
+13,Conteúdos Matemáticos da Educação Básica,Fundamentos de Álgebra e Aritmética,,True
+14,Álgebra Linear,,,True
+15,Cálculo Diferencial e Integral,Conteúdos Matemáticos da Educação Básica,,True
+16,Geometria Analítica,Álgebra Linear,,False
+17,Conteúdos Matemáticos da Educação Básica,Fundamentos de Álgebra e Aritmética,,True
+18,Conteúdos Matemáticos da Educação Básica,Fundamentos de Geometria,,True
+19,Geometria Analítica,,,False
+20,Probabilidade e Estatística,,,True
+21,Probabilidade e Estatística,Conteúdos Matemáticos da Educação Básica,,False
+22,Cálculo Diferencial e Integral,Conteúdos Matemáticos da Educação Básica,,True
+23,Fundamentos de Análise,,,False
+24,Conteúdos Matemáticos da Educação Básica,,,True
+25,Fundamentos de Álgebra e Aritmética,,,True
+26,Fundamentos de Geometria,,,True
+27,Conteúdos Matemáticos da Educação Básica,Contextos Históricos e Culturais no/do Ensino da Matemática,,True
+28,Processos de Avaliação em Matemática na Educação Básica,,,True
+29,"Observação, Análise e Planejamento dos conteúdos e métodos de ensino em matemática na Educação Básica",Recursos Didáticos de Matemática para a Educação Básica,,True
+30,Tendências em Educação Matemática,,,True
+31,Teorias pedagógicas e Didática,Planejamento e avaliação educacional,Planejamento e avaliação do ensino e da aprendizagem,True
+32,"Diferença, Diversidade e Educação inclusiva",Libras,,True
+33,"Diferença, Diversidade e Educação inclusiva",Planejamento e avaliação do ensino e da aprendizagem,,True
+34,Psicologia da Educação,,,True
+35,Teorias pedagógicas e Didática,,Conteúdos e metodologias específicas do ensino de áreas diversas,True
